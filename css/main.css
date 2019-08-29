@@ -373,7 +373,7 @@ a.schedule-call:hover{
   position: relative;
 }
 .intro-type .container {
-  padding: 107px 0px 102px 0px !important;
+  padding: 75px 0px 102px 0px !important;
 }
 .company-heading h1 {
   margin-bottom: 60px;
@@ -413,7 +413,7 @@ a.schedule-call:hover{
 .ct-btn-scroll {
   width: 49px;
   height: 49px;
-  position: absolute;
+  position: relative;
   bottom: 30px;
   left: 0;
   right: 0;
